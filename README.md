@@ -26,7 +26,7 @@ HTML | CSS | JavaScript: Frontend development using HTML, CSS, and JavaScript fo
 Apache Tomcat: Servlet container used for deploying the web application.
 Maven: Dependency management tool for Java projects.
 Setup Instructions:
-Clone the Repository: Clone this repository to your local machine.
+Clone the Repository: Clone this repository to your local machine..
 
 Database Configuration: Set up a MySQL database and configure the database connection details in the application.
 
