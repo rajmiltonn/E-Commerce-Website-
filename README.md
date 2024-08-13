@@ -10,7 +10,7 @@ Browse Products: Users can browse through a wide range of products available for
 Add to Cart: Users can add items to their shopping cart for later purchase.
 Checkout: Users can proceed to checkout to complete their purchase by providing their account information and shipping address.
 View Order History: Users can view their past transactions and order history.
-Edit Profile: Users can update their account information, such as username, password, and shipping address..
+Edit Profile: Users can update their account information, such as username, password, and shipping address.
 
 # Admin Features:
 
@@ -26,7 +26,7 @@ HTML | CSS | JavaScript: Frontend development using HTML., CSS, and JavaScript f
 Apache Tomcat: Servlet container used for deploying the web application.
 Maven: Dependency management tool for Java projects.
 Setup Instructions:
-Clone the Repository: Clone this repository to your local machine..
+Clone the Repository: Clone this repository to your local machine.
 
 Database Configuration: Set up a MySQL database and configure the database connection details in the application.
 
