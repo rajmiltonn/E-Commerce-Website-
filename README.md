@@ -1,6 +1,6 @@
 # E-Commerce Website - Java Web Application:
 
-Welcome to our E-Commerce website! This web application allows users to browse and purchase a variety of items, including foods, devices, and clothes. To make a purchase, users must have an account. If they don't have an account yet, they can create one and then log in. Once logged in, users can buy items by providing their account information and shipping address. They also have the option to add items to their cart for future purchase.
+Welcome to our E-Commerce website! This web application allows users to browse and purchase a variety of items, including foods, devices., and clothes. To make a purchase, users must have an account. If they don't have an account yet, they can create one and then log in. Once logged in, users can buy items by providing their account information and shipping address. They also have the option to add items to their cart for future purchase.
 
 # User Features:
 
