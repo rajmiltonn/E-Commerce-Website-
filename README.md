@@ -24,7 +24,7 @@ Java Servlets and JSP: Backend development using Java Servlets for handling requ
 MySQL Database: Database management for storing product information., user accounts, and transaction details.
 HTML | CSS | JavaScript: Frontend development using HTML., CSS, and JavaScript for creating the user interface and enhancing user experience.
 Apache Tomcat: Servlet container used for deploying the web application.
-Maven: Dependency management tool for Java projects.
+Maven: Dependency management tool for Java projects..
 Setup Instructions:
 Clone the Repository: Clone this repository to your local machine.
 
