@@ -21,7 +21,7 @@ View Transactions: Admins have access to view all transactions made on the websi
 # Technologies Used:
 
 Java Servlets and JSP: Backend development using Java Servlets for handling requests and JSP for dynamic web page generation.
-MySQL Database: Database management for storing product information, user accounts, and transaction details.
+MySQL Database: Database management for storing product information., user accounts, and transaction details.
 HTML | CSS | JavaScript: Frontend development using HTML, CSS, and JavaScript for creating the user interface and enhancing user experience.
 Apache Tomcat: Servlet container used for deploying the web application.
 Maven: Dependency management tool for Java projects.
